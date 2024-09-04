@@ -1,7 +1,7 @@
 {
   "name": "kazuha",
-  "version": "2.0.2",
-  "description": "This is a Terminal Portfolio made by me using JavaScript",
+  "version": "2.0.3",
+  "description": "updated the ascii art",
   "main": "index.js",
   "bin": {
     "kazuha": "./index.js"
